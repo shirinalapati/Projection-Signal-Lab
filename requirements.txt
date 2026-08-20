@@ -1,0 +1,14 @@
+pybaseball>=2.2.7
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+plotly
+pyarrow
+pytest
+statsmodels
+joblib
+lxml
+html5lib
+beautifulsoup4
